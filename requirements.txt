@@ -7,8 +7,8 @@ llama-cpp-python
 
 faiss-cpu
 
-streamlit
-streamlit_chat
+streamlit==1.11.0
+streamlit_chat==0.0.1
 
 pypdf
 tqdm
